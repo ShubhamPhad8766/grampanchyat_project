@@ -1,0 +1,1 @@
+enum SampleItem { marathi, hindi, english }
